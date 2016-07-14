@@ -8,9 +8,7 @@ public class Livro implements Comparable<Livro>, Serializable {
 	private int edicao;
 	private String autor;
 	private String titulo;
-
 	
-
 	public int getEdicao() {
 		return edicao;
 	}

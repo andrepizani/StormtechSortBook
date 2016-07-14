@@ -1,11 +1,8 @@
 package Comparator;
-
 import java.util.Comparator;
-
 import TechnicalAssessment.Livro;
 
 public class EdicaoComparator implements Comparator<Livro> {
-
 	@Override
 	public int compare(Livro livro1, Livro livro2) {
 		try {

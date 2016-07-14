@@ -24,11 +24,8 @@ public class Serializacao {
 	
 	public void criarSubPasta() {
 		String nome = "livro";
-		// declarando e instanciando uma pasta
 		File pastaRaiz = new File("arquivos");
-		// verifica se a pasta existe
 		boolean pastaExiste = pastaRaiz.exists();
-		// se a pastan n existir é criada
 		if (!pastaExiste) {
 			System.out.println("Criando pasta...");
 			pastaRaiz.mkdir();
