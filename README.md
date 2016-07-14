@@ -1,9 +1,9 @@
 # StormtechSortBook
 
 #Requisitos para Aplicação:
-#Para apenas execução:
+###Para apenas execução:
 -É recomendado possuir a máquina virtual do Java no mínimo versão 1.8, disponivel em: https://www.java.com/pt_BR/download/manual.jsp
-#Para desenvolver:
+###Para desenvolver:
 -Necessária maquina virtual do Java  para desenvolvedores, o JDK:
 http://www.oracle.com/technetwork/pt/java/javase/downloads/index.html
 -Recomenda-se o uso de uma IDE, sugiro o Eclipse
