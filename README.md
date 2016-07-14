@@ -6,6 +6,7 @@
 ###Para desenvolver:
 -Necessária maquina virtual do Java  para desenvolvedores, o JDK:
 http://www.oracle.com/technetwork/pt/java/javase/downloads/index.html
+
 -Recomenda-se o uso de uma IDE, sugiro o Eclipse
 https://eclipse.org/home/index.php
 
